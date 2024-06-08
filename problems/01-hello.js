@@ -5,8 +5,8 @@ HINT: this function doesn't need to return anything, it should just print using
 console.log.
 */
 
-function helloMe(str) {
-    let helloMe = ('hello'+ str);
+function helloMe(Andrew) {
+    let helloMe = ('hello'+ Andrew);
 
 
     console.log(helloMe); 
